@@ -4,9 +4,8 @@
 Welcome to the official **landing page repository** of the **International Institute of Data Science and Technology (IIDST)**! This repository contains the code and assets for the institute's website, providing a gateway for students, educators, and industry professionals to explore our **AI, ML, and Data Science** programs.
 
 📌 **IIDST is dedicated to empowering the future of data science and technology through cutting-edge education and research.**
-
-![IIDST Logo](https://github.com/iidst-org/iidst-org/blob/main/iidstlogo.png) 
-
+---
+![IIDST Logo](https://github.com/iidst-org/iidst-org/blob/main/iidstlogo.jpg?raw=true) 
 ---
 
 ## 🎯 Goals
