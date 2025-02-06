@@ -5,7 +5,7 @@ Welcome to the official **landing page repository** of the **International Insti
 
 📌 **IIDST is dedicated to empowering the future of data science and technology through cutting-edge education and research.**
 
-![IIDST Logo](https://github.com/iidst-org/iidst-org/blob/main/iidst%20logo.png?raw=true) 
+![IIDST Logo](https://github.com/iidst-org/iidst-org/blob/main/iidstlogo.png) 
 
 ---
 
